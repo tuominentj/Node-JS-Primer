@@ -1,0 +1,24 @@
+{
+  "name": "node-js-primer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "jotain",
+    "dev-app": "joataiin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuominentj/Node-JS-Primer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuominentj/Node-JS-Primer/issues"
+  },
+  "homepage": "https://github.com/tuominentj/Node-JS-Primer#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
